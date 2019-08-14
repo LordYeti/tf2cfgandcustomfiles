@@ -1,0 +1,9 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"Panda-Community.com NY | Jailbreak"
+		"date"		"1550876582"
+		"addr"		"70.42.74.221:27015"
+	}
+}
